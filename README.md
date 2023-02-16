@@ -1,4 +1,4 @@
-# HaskellProjects
+# Haskell Projects
 
 This github repository holds [Haskell](https://www.haskell.org) code resulting from various projects
 
