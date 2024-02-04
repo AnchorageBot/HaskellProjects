@@ -1,6 +1,6 @@
 # Haskell Projects
 
-This github repository holds references for, and scripts resulting from, various Haskell projects
+This github repository holds references for, and scripts resulting from, various [Haskell](https://www.haskell.org/get-started/) projects
 
 # How-to Code with Haskell Project Books
 
