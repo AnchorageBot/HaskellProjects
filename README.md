@@ -12,7 +12,7 @@ Books
 
 * [Learn Physics with Functional Programming by Scott N. Walck](https://nostarch.com/learn-physics-functional-programming)
 
-Videos
+YouTube Videos
 
 * [Haskell in 100 Seconds - Firebase](https://youtu.be/Qa8IfEeBJqk?si=OAJoyHlaSoMCO42v)
 
