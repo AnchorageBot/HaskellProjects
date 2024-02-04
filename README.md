@@ -18,6 +18,6 @@ Videos
 
 - - - -
 
-IDE's
+IDE's (Interactive Development Environments)
 
 * [VS Code](https://vscode.dev)
