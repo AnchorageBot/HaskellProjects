@@ -2,6 +2,8 @@
 
 This github repository holds references for, and scripts resulting from, various [Haskell](https://www.haskell.org/get-started/) projects
 
+- - - - 
+
 Haskell Project Books
 
 * [Learn you a Haskell for a Great Good by Miran Lipovača](http://learnyouahaskell.com)
